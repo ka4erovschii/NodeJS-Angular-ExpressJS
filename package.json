@@ -1,0 +1,20 @@
+{
+  "name": "secondnodeapp",
+  "version": "1.0.0",
+  "description": "This is test nodejs + angularjs app",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "express": "~4.7.2",
+    "method-override": "~2.1.2",
+    "morgan": "~1.2.2",
+    "mysql": "2.13.0",
+    "mysql2": "^1.3.5",
+    "sequelize": "^4.2.0"
+  },
+  "license": "ISC"
+}
